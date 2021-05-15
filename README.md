@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sthompson232
-- 👀 I’m interested in programming (of course), music and 3D animation.
-- 🌱 I’m currently learning React, Docker, Redis, Redux!
-- 💞️ I’m looking to collaborate on anything with a frontend developer
+- 🌱 I’m currently learning React, Docker, Redux!
+- 💞️ I’m looking to collaborate on anything with a frontend React developer
 - 📫 How to reach me Linkedin
 
 <!---
