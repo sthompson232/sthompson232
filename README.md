@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sthompson232
-- 🌱 I’m currently learning React, Docker, Redux!
-- 💞️ I’m looking to collaborate on anything with a frontend React developer
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me Linkedin
 
 <!---
