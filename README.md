@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sthompson232
-- 🌱 I’m currently learning Next.js
-- 📫 How to reach me Linkedin
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sthompson232)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 sthompson232/sthompson232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
